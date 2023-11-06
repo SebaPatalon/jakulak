@@ -83,3 +83,4 @@ do edycji:
     rebase-interactive master (będąc na innej gałęzi) - tworzy 1 commit ze wszystkich zmian na gałęzi.
     test testd
     tagi - pozwalają łatwo znaleźć commit
+    jddddd
